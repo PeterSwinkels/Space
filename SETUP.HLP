@@ -1,0 +1,45 @@
+=
+>Setup help.
+=
+>Turning the sound off and on.
+ To turn the sound on or off move the cursor to the first
+ button and press Enter to toggle the sound.
+-
+>Turning the joystick off and on.
+ To turn the joystick on or off move the cursor to the second
+ button and press Enter to toggle the joystick.
+-
+>Testing the joystick.
+ To test the joystick move the cursor to the third button and
+ press Enter. A window with a cursor will appear. Move the
+ joystick to see how the cursor responds. If the cursor does
+ not respond properly try adjusting the joystick's sensitivity.
+ In this window the fire button can be tested as well.
+-
+>Setting the joystick's sensitivity.
+ To set the joystick's sensitivity move the cursor to the fourth
+ button and press Enter. A bar indicating the current sensitivity
+ setting will apear. Use the +/- keys to adjust this setting.
+-
+>Setting the level.
+ To set the level move the cursor to the fifth button and press
+ Enter. A bar indicating the currently selected level will appear.
+ Use the +/- keys to adjust this setting.
+ 
+ The higher the setting the more enemy ships will appear and the
+ more likely they are to fire. From level 25 and up cloaked ships
+ and ships that should not be destroyed will appear.
+-
+>Setting the number of lives.
+ To set the number of lives move the cursor to the fifth button
+ and press Enter. A bar indicating the current number of lives
+ will appear. Use the +/- keys to adjust this setting.
+-
+>Selecting a ship.
+ To select a ship move the cursor to the sixth button and press
+ Enter. Use the arrow keys to select a ship type and color.
+-
+>Saving the the settings.
+ To save the settings move the cursor to the seventh button and
+ press Enter.
+

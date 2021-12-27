@@ -1,0 +1,38 @@
+=
+>Space help.
+=
+-
+>The game's goal.
+-
+ The goal of the game is advancing to level 50.
+ To advance to the next level 25 enemy ships need
+ to be destroyed.
+-
+>Keys and their functions.
+-
+    Forward
+       /18
+ Left/1B   /1ARight
+       /19
+    Backward
+
+ Press the key for a specific direction will cause to ship
+ to move in that direction or to stop moving when already
+ moving in that direction.
+
+      End = Causes the ship to stop moving.
+   Escape = Returns to the main menu.
+        P = Pauses the game.
+        S = Displays the game's status.
+ Spacebar = Fires a torpedo. Up to five torpedoes
+            can be present in the playing field at
+            a time.
+-
+>Scoring:
+-
+ Grey ship - 1 point.
+ Red ship + 1 point.
+ Bright red ship + 2 points.
+ Yellow ship + 3 points.
+ Cloaked ship with visible exhaust + 5 points.
+
